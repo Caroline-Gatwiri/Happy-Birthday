@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="salutation">Dear Caroline</string>
+    <string name="signature_text">From Twish</string>
+    <string name="happy_birthday_text">Happy Birthday to the coolest person on Earth other than me of-course.</string>
+</resources>
